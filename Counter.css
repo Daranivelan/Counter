@@ -1,0 +1,39 @@
+h1
+{
+    color: violet;
+    text-align: center;
+    background-color: black;
+}
+label
+{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+div
+{
+    text-align: center;
+}
+button
+{
+    color: violet;
+    text-align: center;
+    background-color: rgb(55, 51, 51);
+    padding : 12px 20px;
+    border-radius: 7px;
+    border: 0;
+    cursor: pointer;
+    margin: 10px;
+}
+.Increase:hover
+{
+    color: rgb(255, 0, 0);
+}
+.Decrease:hover
+{
+    color: rgb(0, 255, 0);
+}
+.Reset:hover
+{
+    color: yellow
+}
